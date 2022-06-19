@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = randomnaess@outlook.com
+	name = Ana Berg
